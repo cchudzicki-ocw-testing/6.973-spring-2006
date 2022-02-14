@@ -4,7 +4,12 @@ description: Lecture notes on practical aspects and basic architectures of the f
   Fourier transform.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/49aa5e11da2190ceb1dcadbf5abf7393_lecture_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_9.pdf
+type: OCWFile
 uid: 49aa5e11-da21-90ce-b1dc-adbf5abf7393
 ---

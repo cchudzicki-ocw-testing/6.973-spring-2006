@@ -5,7 +5,12 @@ description: Lecture notes on coding, convolutional codes, channel coding, seque
   distance, and constraint length.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/e9dccbc34c08e79585e0d17a03ac30fd_lecture_11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_11.pdf
+type: OCWFile
 uid: e9dccbc3-4c08-e795-85e0-d17a03ac30fd
 ---

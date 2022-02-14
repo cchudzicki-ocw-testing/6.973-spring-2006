@@ -4,7 +4,12 @@ description: Lecture notes on micro-architectures, behavioral transformations, a
   transformations, pipelining, and systematic folding.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/b34c08522c4d384487429e49b79eec53_lecture_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_6.pdf
+type: OCWFile
 uid: b34c0852-2c4d-3844-8742-9e49b79eec53
 ---
