@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw1_soln.pdf
-type: OCWFile
 uid: fdf741e8-588c-4c02-bc1c-1c060e857015
 ---

@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw2_addendum.pdf
-type: OCWFile
 uid: 6c397818-0578-7c61-d5a1-da59f60dd15c
 ---
