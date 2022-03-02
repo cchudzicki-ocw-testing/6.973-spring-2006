@@ -7,7 +7,7 @@ title: Exams
 uid: 57b17c47-0331-a639-8000-b6bd03eb98be
 ---
 
-Exam 1 ({{< resource_link de345259-ab56-3c20-6199-13f0e3fff8f7 "PDF" >}})
+Exam 1 ({{% resource_link de345259-ab56-3c20-6199-13f0e3fff8f7 "PDF" %}})
 
 ### Supporting Files
 

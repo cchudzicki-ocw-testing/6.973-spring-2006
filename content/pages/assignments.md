@@ -25,7 +25,7 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1 ({{< resource_link b83f49fc-4f97-4ca7-2d43-47550b70d776 "PDF" >}})
+Problem set 1 ({{% resource_link b83f49fc-4f97-4ca7-2d43-47550b70d776 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,7 +43,7 @@ waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-comm
 {{< tdopen >}}
 
 
-({{< resource_link fdf741e8-588c-4c02-bc1c-1c060e857015 "PDF" >}})
+({{% resource_link fdf741e8-588c-4c02-bc1c-1c060e857015 "PDF" %}})
 
 ps1\_problem1\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem1_soln.m))
 
@@ -61,9 +61,9 @@ waterfill\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-97
 {{< tdopen >}}
 
 
-Problem set 2 ({{< resource_link 7bfa9192-acf6-a98e-3140-f217ffe30cfc "PDF" >}})
+Problem set 2 ({{% resource_link 7bfa9192-acf6-a98e-3140-f217ffe30cfc "PDF" %}})
 
-Addendum ({{< resource_link 6c397818-0578-7c61-d5a1-da59f60dd15c "PDF" >}})
+Addendum ({{% resource_link 6c397818-0578-7c61-d5a1-da59f60dd15c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,7 +77,7 @@ Addendum ({{< resource_link 6c397818-0578-7c61-d5a1-da59f60dd15c "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ({{< resource_link 142d13e6-9c10-e030-a786-8208a89988bf "PDF" >}})
+Problem set 3 ({{% resource_link 142d13e6-9c10-e030-a786-8208a89988bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
