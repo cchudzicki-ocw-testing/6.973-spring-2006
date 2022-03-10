@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_7.pdf
 uid: bad73374-d368-d33a-59d6-e28f51cb9e33
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

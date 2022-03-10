@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw2_addendum.pdf
 uid: 6c397818-0578-7c61-d5a1-da59f60dd15c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

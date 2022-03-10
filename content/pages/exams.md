@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 57b17c47-0331-a639-8000-b6bd03eb98be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Exam 1 ({{% resource_link de345259-ab56-3c20-6199-13f0e3fff8f7 "PDF" %}})

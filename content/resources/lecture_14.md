@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_14.pdf
 uid: 653a5f7b-6836-3dcf-ffcf-5f50117febf6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 9e3f3072-4c55-0b19-7f1f-9a984910bd5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section provides a list of recommended readings for those interested in communication system design.
