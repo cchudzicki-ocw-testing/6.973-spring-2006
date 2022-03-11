@@ -34,13 +34,13 @@ Problem set 1 ({{% resource_link b83f49fc-4f97-4ca7-2d43-47550b70d776 "PDF" %}})
 {{< tdopen >}}
 
 
-dfe\_equalizer.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/dfe_equalizer.m))
+dfe\_equalizer.m ({{% resource_link 60bb0b4c-689d-eb84-05c5-2b24ebb8b580 "M" %}})
 
-eq.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/eq.m))
+eq.m ({{% resource_link 1212caa3-1c0f-ae29-7252-ea3487afdbf2 "M" %}})
 
-linear\_equalizer.m([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/linear_equalizer.m))
+linear\_equalizer.m({{% resource_link dd0e76b8-2fa9-3a52-3638-ae9386982bc1 "M" %}})
 
-waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/waterfill.m))
+waterfill.m ({{% resource_link 52c14850-c6d8-6185-65b3-2ab9ff379879 "M" %}})
 
 
 {{< tdclose >}}
@@ -49,13 +49,13 @@ waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-comm
 
 ({{% resource_link fdf741e8-588c-4c02-bc1c-1c060e857015 "PDF" %}})
 
-ps1\_problem1\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem1_soln.m))
+ps1\_problem1\_soln.m ({{% resource_link 63b56c03-17f8-3d54-0a17-1f8474c46de2 "M" %}})
 
-ps1\_problem2\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem2_soln.m))
+ps1\_problem2\_soln.m ({{% resource_link 06e75ef4-c343-d3c4-3f3e-e610c81efe32 "M" %}})
 
-ps1\_problem3\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem3_soln.m))
+ps1\_problem3\_soln.m ({{% resource_link 73ff45be-3c37-8880-4cfd-0a7ca3824652 "M" %}})
 
-waterfill\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/waterfill_soln.m))
+waterfill\_soln.m ({{% resource_link 7ea0b852-c02e-c214-bfa6-06d2fa013948 "M" %}})
 
 
 {{< tdclose >}}
