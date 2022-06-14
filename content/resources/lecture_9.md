@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on practical aspects and basic architectures of the fast
   Fourier transform.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/49aa5e11da2190ceb1dcadbf5abf7393_lecture_9.pdf
+file: /courses/6-973-communication-system-design-spring-2006/49aa5e11da2190ceb1dcadbf5abf7393_lecture_9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on practical aspects and basic architectures of the fast Fourier transform.

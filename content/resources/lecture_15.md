@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Viterbi algorithms and advanced architectures.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/b5c4b8ea6d2a8a0353ad2511e8433bad_lecture_15.pdf
+file: /courses/6-973-communication-system-design-spring-2006/b5c4b8ea6d2a8a0353ad2511e8433bad_lecture_15.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on Viterbi algorithms and advanced architectures.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an overview of architecture exploration in Bluespec?.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/bad73374d368d33a59d6e28f51cb9e33_lecture_7.pdf
+file: /courses/6-973-communication-system-design-spring-2006/bad73374d368d33a59d6e28f51cb9e33_lecture_7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes with an overview of architecture exploration in Bluespec?.

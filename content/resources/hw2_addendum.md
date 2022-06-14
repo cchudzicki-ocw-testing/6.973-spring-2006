@@ -3,7 +3,7 @@ content_type: resource
 description: Addendum to Problem Set 2, on the 802.11a behavioral model. Includes
   data sets, channel models, and instructions on getting started and understanding
   the simulator output.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/6c39781805787c61d5a1da59f60dd15c_hw2_addendum.pdf
+file: /courses/6-973-communication-system-design-spring-2006/6c39781805787c61d5a1da59f60dd15c_hw2_addendum.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -19,3 +19,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Addendum to Problem Set 2, on the 802.11a behavioral model. Includes data sets, channel models, and instructions on getting started and understanding the simulator output.

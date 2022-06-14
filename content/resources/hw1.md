@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on modulation, equalization, and multi-tone.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-973-communication-system-design-spring-2006/b83f49fc4f974ca72d4347550b70d776_hw1.pdf
+file: /courses/6-973-communication-system-design-spring-2006/b83f49fc4f974ca72d4347550b70d776_hw1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on modulation, equalization, and multi-tone.
