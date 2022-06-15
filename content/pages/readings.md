@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of recommended readings for those interested
+  in communication system design.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
