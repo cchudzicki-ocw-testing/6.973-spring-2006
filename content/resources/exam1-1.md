@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/649234dc1ca44892426
 file_type: text/plain
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

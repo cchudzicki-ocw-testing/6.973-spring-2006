@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/7bfa9192acf6a98e314
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
